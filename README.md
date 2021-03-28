@@ -32,7 +32,8 @@ This shows that the user can succesfully logout.
 
 This shows that the user can add and view comments to the post
 ![](https://i.imgur.com/Ci2IWSQ.gif)
-![](https://i.imgur.com/RUJSovO.gif)
+
+![](https://i.imgur.com/w3BELGv.gif)
 
 
 
