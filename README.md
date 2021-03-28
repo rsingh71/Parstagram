@@ -21,8 +21,18 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+This shows that user can stay logged in across restarts
+![](https://i.imgur.com/4ALnvUM.gif)
+![](https://i.imgur.com/fFc55ii.gif)
+![](https://i.imgur.com/0tbtlsx.gif)
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+This shows that the user can succesfully logout.
+![](https://i.imgur.com/zT9k1Q2.gif)
+
+This shows that the user can add and view comments to the post
+![](https://i.imgur.com/Ci2IWSQ.gif)
+
 
 
 
