@@ -22,6 +22,8 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 This shows that user can stay logged in across restarts
+
+
 ![](https://i.imgur.com/4ALnvUM.gif)
 ![](https://i.imgur.com/fFc55ii.gif)
 ![](https://i.imgur.com/0tbtlsx.gif)
